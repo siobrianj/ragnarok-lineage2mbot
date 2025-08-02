@@ -1,0 +1,538 @@
+[
+  {
+    "zone": "Gludio",
+    "location": "Chertuba's Barracks",
+    "boss": "Chertuba",
+    "level": "Lv.40",
+    "respawn_time": "6 hours",
+    "drops": [
+      "Chertuba's Soul Necklace",
+      "Tsurugi",
+      "Caliburs Dual Blades",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe"
+    ]
+  },
+  {
+    "zone": "Gludio",
+    "location": "Chertuba's Barracks",
+    "boss": "Awakened Chertuba",
+    "level": "Lv.55",
+    "respawn_time": "-",
+    "drops": [
+      "Guardian's Sword",
+      "Crystal Gaiters",
+      "Apella's Necklace",
+      "Chertuba's Soul Necklace",
+      "Tsurugi",
+      "Caliburs Dual Blades",
+      "Body Slasher",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Blessed Spirit Stone",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Spear Training (Infinity Strike)",
+      "Archery Manual (Entangle)",
+      "Priest's Records (Arcane Shield)"
+    ]
+  },
+  {
+    "zone": "Gludio",
+    "location": "Southern Wasteland",
+    "boss": "Basila",
+    "level": "Lv.40",
+    "respawn_time": "4 hours",
+    "drops": [
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe"
+    ]
+  },
+  {
+    "zone": "Gludio",
+    "location": "Ruins of Despair",
+    "boss": "Kelsus",
+    "level": "Lv.40",
+    "respawn_time": "10 hours",
+    "drops": [
+      "Cursed Weapon Enchant Scroll",
+      "Cursed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe"
+    ]
+  },
+  {
+    "zone": "Gludio",
+    "location": "Ant Nest (B2)",
+    "boss": "Savan",
+    "level": "Lv.45",
+    "respawn_time": "12 hours",
+    "drops": [
+      "Savan's Robe",
+      "Necklace of Immortality",
+      "Desperion's Staff",
+      "Blessed Weapon Enchant Scroll",
+      "Cursed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Cursed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Assassination Bible (Hide)",
+      "Textbook of Magic (Confuse)",
+      "Priest's Records (Arcane Shield)"
+    ]
+  },
+  {
+    "zone": "Gludio",
+    "location": "Ant Nest (B3)",
+    "boss": "Queen Ant",
+    "level": "Lv.50",
+    "respawn_time": "6 hours",
+    "drops": [
+      "Queen Ant's Wings",
+      "Majestic Robe",
+      "Majestic Gloves",
+      "Majestic Boots",
+      "Majestic Circlet",
+      "Keshanberk",
+      "Ring of Blessing",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Accessory Enchant Scroll",
+      "Blessed Life Stone",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Archery Manual (Death Sting)",
+      "Battle Tome (Iron Will)",
+      "Art of Dual Blades (Hunter's Song)",
+      "Assassination Bible (Shadow Cape)"
+    ]
+  },
+  {
+    "zone": "Gludio",
+    "location": "Bloodstained Swampland",
+    "boss": "Tromba",
+    "level": "Lv.60",
+    "respawn_time": "7 hours",
+    "drops": [
+      "Damascus Dual Blades",
+      "Demon's Orb",
+      "Blue Wolf Helmet",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe"
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Bee Hive",
+    "boss": "Felis",
+    "level": "Lv.40",
+    "respawn_time": "3 hours",
+    "drops": [
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe",
+      "Archery Manual (Ultimate Evasion)",
+      "Priest's Records (Concentration)"
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Rebel Territory",
+    "boss": "Talakin",
+    "level": "Lv.40",
+    "respawn_time": "10 hours",
+    "drops": [
+      "Full Plate Armor",
+      "Full Plate Gauntlets",
+      "Sword of Nightmares",
+      "Caliburs Dual Blades",
+      "Crystal Dagger",
+      "Crystallized Ice Bow",
+      "Staff of Evil Spirits",
+      "Spell Breaker",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Accessory Enchant Scroll",
+      "Blessed Life Stone",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Battle Tome (Hate)",
+      "Art of Dual Blades (Sonic Blaster)",
+      "Priest's Records (Arcane Shield)"
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Dion Plains",
+    "boss": "Enkura",
+    "level": "Lv.40",
+    "respawn_time": "6 hours",
+    "drops": [
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe",
+      "Battle Tome (Defense Aura)",
+      "Art of Dual Blades (Warrior's Dance)"
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Dion Hills",
+    "boss": "Pan Dra'eed",
+    "level": "Lv.40",
+    "respawn_time": "12 hours",
+    "drops": [
+      "Pan Dra'eed's Necklace",
+      "Drake Leather Boots",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe",
+      "Archery Manual (Entangle)",
+      "Textbook of Magic (Cancellation)"
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Cruma Marshlands",
+    "boss": "Mutated Cruma",
+    "level": "Lv.50",
+    "respawn_time": "8 hours",
+    "drops": [
+      "Cruma's Horn",
+      "Cruma's Shell",
+      "Ring of Passion",
+      "Damascus Dual Blades",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Accessory Enchant Scroll",
+      "Blessed Life Stone",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Priest's Records (Arcane Shield)",
+      "Art of Dual Blades (Sonic Blaster)",
+      "Battle Tome (Touch of Life)",
+      "Art of Dual Blades (Sonic Rage)"
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Morgue",
+    "boss": "Tempest",
+    "level": "Lv.45",
+    "respawn_time": "6 hours",
+    "drops": [
+      "Demon's Orb",
+      "Devil's Pact",
+      "Vilesoul Valefar's Necklace",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe",
+      "Battle Tome (Touch of Life)"
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Cruma Tower (B4)",
+    "boss": "Contaminated Cruma",
+    "level": "Lv.45",
+    "respawn_time": "8 hours",
+    "drops": [
+      "Spear Training (Absolute Spear)",
+      "Cloak of Authority",
+      "Tiat's Belt",
+      "Inheritor's Book (Hold Resist)",
+      "Greatsword Techniques (Sonic Wave)",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe"
+    ]
+  },
+  {
+    "zone": "Giran",
+    "location": "Giran Castle",
+    "boss": "Katan",
+    "level": "Lv.50",
+    "respawn_time": "8 hours",
+    "drops": [
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe"
+    ]
+  },
+{
+    "zone": "Dion",
+    "location": "Cruma Tower (B7)",
+    "boss": "Core Susceptor",
+    "level": "Lv.60",
+    "respawn_time": "10 hours",
+    "drops": [
+      "Sarunga",
+      "Lord's Authority",
+      "Susceptor's Heart",
+      "Core Ring",
+      "Dark Crystal Breastplate",
+      "Dark Crystal Gloves",
+      "Dark Crystal Boots",
+      "Dark Crystal Helmet",
+      "Kris",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Legend Craft Recipe",
+      "Legend Craft Recipe Fragment",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Archery Manual (Elimination)",
+      "Textbook of Magic (Gravity)",
+      "Art of Dual Blades (Breaking Armor)",
+      "Priest's Records (Arcane Shield)",
+      "Textbook of Magic (Cancellation)",
+      "Priest's Records (Divine Spark)",
+      "Art of Dual Blades (Sonic Rage)",
+      "Battle Tome (Attack Aura)",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Delu Dwellings",
+    "boss": "Sarka",
+    "level": "Lv.45",
+    "respawn_time": "10 hours",
+    "drops": [
+      "Full Plate Gaiters",
+      "Full Plate Boots",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Floran Fields",
+    "boss": "Timitris",
+    "level": "Lv.40",
+    "respawn_time": "8 hours",
+    "drops": [
+      "Blue Wolf Breastplate",
+      "Blue Wolf Gloves",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Unique Craft Recipe",
+      "Art of Dual Blades (Dance of Fury)",
+      "Art of Dual Blades (Detect Weakness)",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Giants' Vestige",
+    "boss": "Stonegeist",
+    "level": "Lv.45",
+    "respawn_time": "7 hours",
+    "drops": [
+      "Demon's Dagger",
+      "Stakato Queen's Staff",
+      "Blood Gaiters",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Assassination Bible (Venom)",
+      "Archery Manual (Real Target)",
+      "Assassination Bible (Shadow Blade)",
+      "Priest's Records (Arcane Shield)",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Dion",
+    "location": "Tanor Canyon",
+    "boss": "Gahareth",
+    "level": "Lv.70",
+    "respawn_time": "9 hours",
+    "drops": [
+      "Dark Legion's Edge",
+      "Majestic Ring",
+      "Bracelet of Blessing",
+      "Belt of Blessing",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Blessed Accessory Enchant Scroll",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Archery Manual (Mana Seeker)",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Giran",
+    "location": "Medusa Garden",
+    "boss": "Medusa",
+    "level": "Lv.55",
+    "respawn_time": "10 hours",
+    "drops": [
+      "Medusa's Helm",
+      "Medusa's Cloak",
+      "Themis' Tongue",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Life Stone",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Priest's Records (Arcane Shield)",
+      "Art of Dual Blades (Triple Slash)",
+      "Priest's Records (Improved Orb)",
+      "Priest's Records (Holy Focus)",
+      "Priest's Records (Enlightenment)",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Giran",
+    "location": "Death Pass",
+    "boss": "Black Lily",
+    "level": "Lv.65",
+    "respawn_time": "12 hours",
+    "drops": [
+      "Cabrio's Hand",
+      "Demon's Boots",
+      "Black Lily's Magic Necklace",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Accessory Enchant Scroll",
+      "Blessed Life Stone",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Assassination Bible (Shadow Step)",
+      "Textbook of Magic (Restore Casting)",
+      "Priest's Records (Judgment)",
+      "Priest's Records (Arcane Shield)",
+      "Textbook of Magic (Critical Magic)",
+      "Textbook of Magic (Empowering Echo)",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Giran",
+    "location": "Pillagers' Outpost",
+    "boss": "Matura",
+    "level": "Lv.50",
+    "respawn_time": "6 hours",
+    "drops": [
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Unique Craft Recipe",
+      "Assassination Bible (Deadly Blow)",
+      "Art of Dual Blades (Vicious Stance)",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Giran",
+    "location": "Breka's Stronghold",
+    "boss": "Breka",
+    "level": "Lv.50",
+    "respawn_time": "6 hours",
+    "drops": [
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Unique Craft Recipe",
+      "Battle Tome (Deflect Arrow)",
+      "Art of Dual Blades (Double Slash)",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Giran",
+    "location": "Gorgon Flower Garden",
+    "boss": "Pan Narod",
+    "level": "Lv.50",
+    "respawn_time": "5 hours",
+    "drops": [
+      "Akat Longbow",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Unique Craft Recipe",
+      "Battle Tome (Ultimate Defense)",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Giran",
+    "location": "Dragon Valley (North)",
+    "boss": "Behemoth",
+    "level": "Lv.65",
+    "respawn_time": "9 hours",
+    "drops": [
+      "Sword of Miracles",
+      "Crystal Gaiters",
+      "Behemoth's Leather Belt",
+      "Damascus Dual Blades",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Accessory Enchant Scroll",
+      "Blessed Life Stone",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Textbook of Magic (Blizzard Storm)",
+      "Battle Tome (Double Shock)",
+      "Archery Manual (Sniper Stance)",
+      "Archery Manual (Scouter Stance)",
+      "etc."
+    ]
+  },
+  {
+    "zone": "Giran",
+    "location": "Antharas' Lair (B6)",
+    "boss": "Dragon Beast",
+    "level": "Lv.75",
+    "respawn_time": "12 hours",
+    "drops": [
+      "Draconic Bow",
+      "Flaming Dragon Skull",
+      "Dragon Belt",
+      "Dragon's Scale",
+      "Armor of Nightmares",
+      "Gauntlets of Nightmares",
+      "Boots of Nightmares",
+      "Helm of Nightmares",
+      "Sword of Nightmares",
+      "Blessed Weapon Enchant Scroll",
+      "Blessed Armor Enchant Scroll",
+      "Blessed Accessory Enchant Scroll",
+      "Blessed Life Stone",
+      "Legend Craft Recipe",
+      "Legend Craft Recipe Fragment",
+      "Epic Craft Recipe",
+      "Unique Craft Recipe",
+      "Textbook of Magic (Meteor)",
+      "Priest's Records (Doom)",
+      "Battle Tome (Vengeance)",
+      "Archery Manual (Mana Seeker)",
+      "Assassination Bible (Vision of Assassin)",
+      "Priest's Records (Arcane Shield)",
+      "etc."
+    ]
+  }
+]
+
